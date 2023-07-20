@@ -1,0 +1,8 @@
+The quick brown fox jumps over the lazy dog. A sentence contains a group of words that conveys a complete thought. 
+It typically starts with a capital letter and ends with a punctuation mark. Words can be composed of letters, 
+numbers, or special characters. In natural language processing, 
+we often need to preprocess text data by removing non-alphanumeric characters and normalizing it. 
+This involves converting the text to lowercase and splitting it into individual words. 
+Stop words are common words that do not carry much meaning and are often removed from the text. 
+After removing stop words, we can calculate the frequencies of the remaining words and sort them based on their occurrence. 
+The resulting word frequency list can provide valuable insights into the most frequent words in the text.
